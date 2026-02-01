@@ -19,6 +19,7 @@
 
 ## Latest Blog Post
 
+- [How Claude Code’s Creator Uses It: 10 Best Practices from the Team]([https://medium.com/tkcbi/membuat-line-bot-dengan-python-33b85878ba40](https://medium.com/@rub1cc/how-claude-codes-creator-uses-it-10-best-practices-from-the-team-e43be312836f)
 - [Membuat LINE Bot dengan Python](https://medium.com/tkcbi/membuat-line-bot-dengan-python-33b85878ba40)
 - [Konfigurasi Django dengan Gunicorn, Supervisor dan Nginx di linux Fedora 29](https://medium.com/tkcbi/konfigurasi-django-dengan-gunicorn-supervisor-dan-nginx-di-fedora-29-5d778c74d96a)
 - [Cara deploy website dengan mudah dan gratis di Netlify](https://medium.com/tkcbi/cara-deploy-website-dengan-mudah-dan-gratis-di-netlify-c2ea0a8a2e40)
