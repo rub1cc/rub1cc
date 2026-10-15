@@ -12,6 +12,7 @@
 
 ## Current Projects
 
+- 💬 **[orkata.co](https://orkata.co)** — Build AI Customer Support Agent for your business
 - 🎚️ **[barcc](https://github.com/rub1cc/barcc)** — Native macOS menu bar app that tracks **Claude Code** usage & costs in real time
 - 🪟 **[Layar](https://github.com/rub1cc/layar)** — DevTools for web developers: open your web in multiple screen sizes at once.  
 
